@@ -1,0 +1,4 @@
+env = Environment( LIBS = "pthread" )
+
+env.Program( 'MemberFunctionPointer05', 'MemberFunctionPointer05.cpp' );
+
