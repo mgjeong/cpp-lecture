@@ -1,0 +1,3 @@
+env = Environment( CCFLAGS = "-std=c++0x" )
+env.Program( 'SmartPointer10', 'SmartPointer10.cpp' );
+
