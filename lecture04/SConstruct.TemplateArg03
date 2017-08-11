@@ -1,0 +1,3 @@
+env = Environment( CPPFLAGS = "-std=c++0x" )
+env.Program( 'TemplateArg03', 'TemplateArg03.cpp' );
+
