@@ -25,10 +25,8 @@ int main( int argc, char* argv[] )
 
     cout << s.top( ) << endl;
 
-    // !!!!
-    //s.push_back( 30 );
-    //cout << s.top( ) << endl;
-
+    // s.push_front( 30 );
+    // cout << s.top( ) << endl;
 
     return 0;
 }
