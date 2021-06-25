@@ -1,3 +1,0 @@
-env = Environment ( CPPFLAGS = "-DDEBUG" )
-env.Program( 'New03', 'New03.cpp' );
-
