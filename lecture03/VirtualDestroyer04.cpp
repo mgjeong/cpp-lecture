@@ -1,6 +1,6 @@
 /**
  *  @file       VirtualDestroyer04.cpp
- *  @author     mg.jeong <myeong.jeong@samsung.com>
+ *  @author     mg.jeong <mg.jeong@gmail.com>
  */
 
 #include <iostream>

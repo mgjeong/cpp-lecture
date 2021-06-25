@@ -1,6 +1,6 @@
 /**
  *  @file       FunctionTemplate03.cpp
- *  @authro     mg.jeong <myeong.jeong@samsung.com>
+ *  @authro     mg.jeong <mg.jeong@gmail.com>
  */
 
 #include <iostream>

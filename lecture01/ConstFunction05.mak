@@ -1,7 +1,7 @@
 ##
 ##  Makefile for C++ lecture
 ##
-##  writen by mg.jeong<myeong.jeong@samsung.com>
+##  writen by mg.jeong<mg.jeong@gmail.com>
 ##
 
 include ../common.mak
