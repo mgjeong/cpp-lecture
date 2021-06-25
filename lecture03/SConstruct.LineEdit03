@@ -1,3 +1,0 @@
-env = Environment( CPPPATH = "." );
-env.Program( 'LineEdit03', [ 'Util.c', 'LineEdit03.cpp' ] );
-

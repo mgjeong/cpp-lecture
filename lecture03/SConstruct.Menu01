@@ -1,3 +1,0 @@
-env = Environment( CPPPATH = "." );
-env.Program( 'Menu01', [ 'Util.c', 'Menu01.cpp' ] );
-
